@@ -4,6 +4,7 @@ Stochastic modeling of SPOD coordiantes for lid-driven cavity flow.
 An example from "Data-driven modeling of strongly nonlinear chaotic systems with non-Gaussian statistics" 
 by H. Arbabi and T. Sapsis
 April 2019, arbabiha@gmail.com
+Forked by Vahid
 """
 
 import matplotlib
